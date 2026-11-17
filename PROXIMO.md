@@ -1,0 +1,1 @@
+Sessão 6: Gravar no arquivo na classe Gasto
